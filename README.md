@@ -1,27 +1,153 @@
-👋 Hi! I'm Tomás, a backend developer passionate about building real-world web applications using Node.js and Express.
+👋 Hi! I'm Tomás Palomino
+🚀 Backend Developer | Node.js Specialist
+Industrial Engineer with Master's in IT Management from Tecnológico de Monterrey, passionate about building scalable web applications and enterprise-level systems using modern backend technologies.
+🎯 Currently Seeking
+Backend Developer or Full Stack opportunities where I can contribute to building robust, scalable applications and continue growing in cloud technologies and DevOps.
 
-While I haven't worked in a formal developer role yet, I've completed several backend projects that simulate real freelance or production-level systems — including an ERP platform with modular architecture, secure authentication, and multi-database integration.
+🛠️ Tech Stack
+Backend Core
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Databases
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Cloud & Tools
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Frontend
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+AI & Automation
+Mostrar imagen
+Mostrar imagen
 
-🛠️ **Core Technologies:**
-- Node.js · Express · Sequelize (PostgreSQL) · Mongoose (MongoDB)
-- Passport.js (JWT & sessions) · Helmet · express-session · Joi
-- Firebase (Realtime DB & Auth)
-- jQuery · Bootstrap (for lightweight frontend UIs)
+🌟 Featured Projects
+🏆 NestJS Enterprise API with Swagger
+Latest Project - Advanced NestJS Implementation
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Enterprise-grade REST API built with NestJS featuring:
 
-📚 **Also learning:**  
-- NestJS (2 certifications completed)  
-- Applying architectural patterns, TypeScript fundamentals, and modular backend structure
+🏗️ Modular Architecture with dependency injection
+📚 Automated API Documentation with Swagger/OpenAPI
+🔒 JWT Authentication and role-based access control
+🗃️ PostgreSQL Integration with TypeORM
+🐳 Docker Support for containerized deployment
+✅ Comprehensive Testing with Jest
+🚀 Production-ready deployment strategies
 
-📌 **Highlighted Projects:**
-- A full-featured ERP backend with authentication, input validation, RBAC, and API structuring
-- A Firebase-based real-time app with frontend interaction and auth
-- A task manager app with session-based login and MongoDB storage
+Live Documentation | Repository
 
-💬 I'm open to backend developer roles, freelance opportunities, or collaborative projects. Let's connect and build something meaningful!
+🏢 ERP System Backend
+Full-Featured Enterprise Resource Planning System
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+
+🔐 Secure Authentication with Passport.js (JWT, Google Auth, Local)
+👥 Role-Based Access Control (RBAC) for different user types
+📊 Multi-Database Support (PostgreSQL with Sequelize, MongoDB with Mongoose)
+✅ Data Validation with Joi for robust input handling
+🏗️ Modular Architecture for scalability and maintainability
+
+Repository
+
+🔥 Real-Time Application with WebSockets
+Firebase & WebSocket Integration
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+
+⚡ Real-time Communication with WebSockets
+🔥 Firebase Integration (Realtime Database, Authentication)
+📱 Live Data Synchronization across multiple clients
+🎯 Event-driven Architecture for responsive UX
+
+Repository
+
+☁️ Google Cloud File Management System
+Cloud Storage & Database Integration
+Mostrar imagen
+Mostrar imagen
+
+🗄️ Google Firestore for real-time NoSQL database
+📁 Google Cloud Storage for scalable file management
+📤 File Upload handling with Multer
+☁️ Cloud-native Architecture for high availability
+
+Repository
+
+🎓 Education & Certifications
+🏛️ Academic Background
+
+🎓 Master's in IT Management - Tecnológico de Monterrey ([GRADUATION-YEAR])
+🎓 Industrial Engineering - Tecnológico de Monterrey ([GRADUATION-YEAR])
+
+💼 Professional Experience
+IT Process Analyst | Axtel IT Billing Services | Santa Catarina, NL ([PERIOD])
+
+📊 Process Optimization and standardization of internal collection support processes
+🔍 Process Auditing across collection workflows
+📈 Data Analysis and forecasting using SQL queries and specialized software
+
+📜 Professional Certifications
+FreeCodeCamp (5 Certifications)
+
+✅ Back End Development and APIs
+✅ JavaScript Algorithms and Data Structures
+✅ Front End Development Libraries
+✅ Information Security and Quality Assurance
+✅ Responsive Web Design
+
+Platzi Specialization (10 Courses)
+
+🚀 NestJS: Modular Programming, Swagger Documentation & Deploy
+🚀 Backend with NestJS
+⚡ Asynchronism with JavaScript
+🔒 Backend with Node.js: Authentication with Passport.js and JWT
+🗄️ Backend with Node.js: Databases with PostgreSQL
+🗄️ Backend with Node.js: Databases with MongoDB and WebSockets
+🌐 Backend with Node.js: REST API with Express.js
+📚 Node.js Fundamentals
+💻 Terminal and Command Lines
+🔧 Git and GitHub
 
 
+🔧 Additional Skills
+CMS & Web Development
 
-<!---
-tomastermx/tomastermx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+WordPress: Site configuration, customization and deployment
+Apache Server: Web server configuration and management
+
+AI-Enhanced Development
+
+GitHub Copilot: AI-assisted code generation and completion
+ChatGPT/Claude: Technical documentation, debugging, and architecture planning
+OpenAI API Integration: Implementation of AI-powered features
+
+
+📈 GitHub Stats
+<div align="center">
+Mostrar imagen
+Mostrar imagen
+</div>
+
+🌐 Let's Connect!
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+
+<div align="center">
+🎯 Open to Backend Developer & Full Stack Opportunities
+Combining Industrial Engineering mindset with cutting-edge backend technologies
+"Building scalable solutions through clean code, solid architecture, and continuous learning"
+</div>
