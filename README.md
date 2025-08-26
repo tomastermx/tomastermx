@@ -1,153 +1,189 @@
-👋 Hi! I'm Tomás Palomino
-🚀 Backend Developer | Node.js Specialist
-Industrial Engineer with Master's in IT Management from Tecnológico de Monterrey, passionate about building scalable web applications and enterprise-level systems using modern backend technologies.
-🎯 Currently Seeking
+# 👋 Hi! I'm Tomás Palomino
+
+## 🚀 Backend Developer | Node.js Specialist
+
+**Industrial Engineer** with **Master's in IT Management** from **Tecnológico de Monterrey**, passionate about building scalable web applications and enterprise-level systems using modern backend technologies.
+
+### 🎯 Currently Seeking
 Backend Developer or Full Stack opportunities where I can contribute to building robust, scalable applications and continue growing in cloud technologies and DevOps.
 
-🛠️ Tech Stack
-Backend Core
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Databases
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Cloud & Tools
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Frontend
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-AI & Automation
-Mostrar imagen
-Mostrar imagen
+---
 
-🌟 Featured Projects
-🏆 NestJS Enterprise API with Swagger
-Latest Project - Advanced NestJS Implementation
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
+## 🛠️ Tech Stack
+
+### Backend Core
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & Tools
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### AI & Automation
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### 🏆 [NestJS Enterprise API with Swagger]([LINK-TO-YOUR-NESTJS-PROJECT])
+**Latest Project - Advanced NestJS Implementation**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 Enterprise-grade REST API built with NestJS featuring:
+- 🏗️ **Modular Architecture** with dependency injection
+- 📚 **Automated API Documentation** with Swagger/OpenAPI
+- 🔒 **JWT Authentication** and role-based access control
+- 🗃️ **PostgreSQL Integration** with TypeORM
+- 🐳 **Docker Support** for containerized deployment
+- ✅ **Comprehensive Testing** with Jest
+- 🚀 **Production-ready** deployment strategies
 
-🏗️ Modular Architecture with dependency injection
-📚 Automated API Documentation with Swagger/OpenAPI
-🔒 JWT Authentication and role-based access control
-🗃️ PostgreSQL Integration with TypeORM
-🐳 Docker Support for containerized deployment
-✅ Comprehensive Testing with Jest
-🚀 Production-ready deployment strategies
+**[Live Documentation]([YOUR-SWAGGER-URL])** | **[Repository]([LINK-TO-NESTJS-REPO])**
 
-Live Documentation | Repository
+---
 
-🏢 ERP System Backend
-Full-Featured Enterprise Resource Planning System
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
+### 🏢 [ERP System Backend]([LINK-TO-YOUR-ERP-PROJECT])
+**Full-Featured Enterprise Resource Planning System**
 
-🔐 Secure Authentication with Passport.js (JWT, Google Auth, Local)
-👥 Role-Based Access Control (RBAC) for different user types
-📊 Multi-Database Support (PostgreSQL with Sequelize, MongoDB with Mongoose)
-✅ Data Validation with Joi for robust input handling
-🏗️ Modular Architecture for scalability and maintainability
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-Repository
+- 🔐 **Secure Authentication** with Passport.js (JWT, Google Auth, Local)
+- 👥 **Role-Based Access Control** (RBAC) for different user types
+- 📊 **Multi-Database Support** (PostgreSQL with Sequelize, MongoDB with Mongoose)
+- ✅ **Data Validation** with Joi for robust input handling
+- 🏗️ **Modular Architecture** for scalability and maintainability
 
-🔥 Real-Time Application with WebSockets
-Firebase & WebSocket Integration
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
+**[Repository]([LINK-TO-ERP-REPO])**
 
-⚡ Real-time Communication with WebSockets
-🔥 Firebase Integration (Realtime Database, Authentication)
-📱 Live Data Synchronization across multiple clients
-🎯 Event-driven Architecture for responsive UX
+---
 
-Repository
+### 🔥 [Real-Time Application with WebSockets]([LINK-TO-YOUR-REALTIME-PROJECT])
+**Firebase & WebSocket Integration**
 
-☁️ Google Cloud File Management System
-Cloud Storage & Database Integration
-Mostrar imagen
-Mostrar imagen
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-🗄️ Google Firestore for real-time NoSQL database
-📁 Google Cloud Storage for scalable file management
-📤 File Upload handling with Multer
-☁️ Cloud-native Architecture for high availability
+- ⚡ **Real-time Communication** with WebSockets
+- 🔥 **Firebase Integration** (Realtime Database, Authentication)
+- 📱 **Live Data Synchronization** across multiple clients
+- 🎯 **Event-driven Architecture** for responsive UX
 
-Repository
+**[Repository]([LINK-TO-REALTIME-REPO])**
 
-🎓 Education & Certifications
-🏛️ Academic Background
+---
 
-🎓 Master's in IT Management - Tecnológico de Monterrey ([GRADUATION-YEAR])
-🎓 Industrial Engineering - Tecnológico de Monterrey ([GRADUATION-YEAR])
+### ☁️ [Google Cloud File Management System]([LINK-TO-YOUR-GCLOUD-PROJECT])
+**Cloud Storage & Database Integration**
 
-💼 Professional Experience
-IT Process Analyst | Axtel IT Billing Services | Santa Catarina, NL ([PERIOD])
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 
-📊 Process Optimization and standardization of internal collection support processes
-🔍 Process Auditing across collection workflows
-📈 Data Analysis and forecasting using SQL queries and specialized software
+- 🗄️ **Google Firestore** for real-time NoSQL database
+- 📁 **Google Cloud Storage** for scalable file management
+- 📤 **File Upload** handling with Multer
+- ☁️ **Cloud-native Architecture** for high availability
 
-📜 Professional Certifications
-FreeCodeCamp (5 Certifications)
+**[Repository]([LINK-TO-GCLOUD-REPO])**
 
-✅ Back End Development and APIs
-✅ JavaScript Algorithms and Data Structures
-✅ Front End Development Libraries
-✅ Information Security and Quality Assurance
-✅ Responsive Web Design
+---
 
-Platzi Specialization (10 Courses)
+## 🎓 Education & Certifications
 
-🚀 NestJS: Modular Programming, Swagger Documentation & Deploy
-🚀 Backend with NestJS
-⚡ Asynchronism with JavaScript
-🔒 Backend with Node.js: Authentication with Passport.js and JWT
-🗄️ Backend with Node.js: Databases with PostgreSQL
-🗄️ Backend with Node.js: Databases with MongoDB and WebSockets
-🌐 Backend with Node.js: REST API with Express.js
-📚 Node.js Fundamentals
-💻 Terminal and Command Lines
-🔧 Git and GitHub
+### 🏛️ Academic Background
+- **🎓 Master's in IT Management** - Tecnológico de Monterrey ([GRADUATION-YEAR])
+- **🎓 Industrial Engineering** - Tecnológico de Monterrey ([GRADUATION-YEAR])
 
+### 💼 Professional Experience
+**IT Process Analyst** | **Axtel IT Billing Services** | Santa Catarina, NL ([PERIOD])
+- 📊 **Process Optimization** and standardization of internal collection support processes
+- 🔍 **Process Auditing** across collection workflows  
+- 📈 **Data Analysis** and forecasting using SQL queries and specialized software
 
-🔧 Additional Skills
-CMS & Web Development
+### 📜 Professional Certifications
 
-WordPress: Site configuration, customization and deployment
-Apache Server: Web server configuration and management
+#### FreeCodeCamp (5 Certifications)
+- ✅ **[Back End Development and APIs](https://www.freecodecamp.org/certification/tomastermx/back-end-development-and-apis)**
+- ✅ **[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/tomastermx/javascript-algorithms-and-data-structures)** 
+- ✅ **[Front End Development Libraries](https://www.freecodecamp.org/certification/tomastermx/front-end-development-libraries)**
+- ✅ **[Information Security and Quality Assurance](https://www.freecodecamp.org/certification/tomastermx/information-security-and-quality-assurance)**
+- ✅ **[Responsive Web Design](https://www.freecodecamp.org/certification/tomastermx/responsive-web-design)**
 
-AI-Enhanced Development
+#### Platzi Specialization (10 Courses)
+- 🚀 **NestJS: Modular Programming, Swagger Documentation & Deploy**
+- 🚀 **Backend with NestJS**
+- ⚡ **Asynchronism with JavaScript**
+- 🔒 **Backend with Node.js: Authentication with Passport.js and JWT**
+- 🗄️ **Backend with Node.js: Databases with PostgreSQL**
+- 🗄️ **Backend with Node.js: Databases with MongoDB and WebSockets**
+- 🌐 **Backend with Node.js: REST API with Express.js**
+- 📚 **Node.js Fundamentals**
+- 💻 **Terminal and Command Lines**
+- 🔧 **Git and GitHub**
 
-GitHub Copilot: AI-assisted code generation and completion
-ChatGPT/Claude: Technical documentation, debugging, and architecture planning
-OpenAI API Integration: Implementation of AI-powered features
+---
 
+## 🔧 Additional Skills
 
-📈 GitHub Stats
+### CMS & Web Development
+- **WordPress:** Site configuration, customization and deployment
+- **Apache Server:** Web server configuration and management
+
+### AI-Enhanced Development
+- **GitHub Copilot:** AI-assisted code generation and completion
+- **ChatGPT/Claude:** Technical documentation, debugging, and architecture planning
+- **OpenAI API Integration:** Implementation of AI-powered features
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
-Mostrar imagen
-Mostrar imagen
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomastermx&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomastermx&layout=compact&theme=dark&hide_border=true)
+
 </div>
 
-🌐 Let's Connect!
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
+---
+
+## 🌐 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-tomas.palomino%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomas.palomino@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR-LINKEDIN-URL])
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomastermx)
+[![Phone](https://img.shields.io/badge/Phone-%2B52%20614%20513%202529-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+526145132529)
+
+---
 
 <div align="center">
-🎯 Open to Backend Developer & Full Stack Opportunities
-Combining Industrial Engineering mindset with cutting-edge backend technologies
-"Building scalable solutions through clean code, solid architecture, and continuous learning"
+  
+### 🎯 Open to Backend Developer & Full Stack Opportunities
+**Combining Industrial Engineering mindset with cutting-edge backend technologies**
+
+*"Building scalable solutions through clean code, solid architecture, and continuous learning"*
+
 </div>
