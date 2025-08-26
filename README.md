@@ -79,34 +79,36 @@ Enterprise-grade REST API built with NestJS featuring:
 
 ---
 
-### 🔥 [Real-Time Application with WebSockets]([LINK-TO-YOUR-REALTIME-PROJECT])
-**Firebase & WebSocket Integration**
-
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-- ⚡ **Real-time Communication** with WebSockets
-- 🔥 **Firebase Integration** (Realtime Database, Authentication)
-- 📱 **Live Data Synchronization** across multiple clients
-- 🎯 **Event-driven Architecture** for responsive UX
-
-**[Repository]([LINK-TO-REALTIME-REPO])**
-
----
-
 ### ☁️ [Google Cloud File Management System]([LINK-TO-YOUR-GCLOUD-PROJECT])
-**Cloud Storage & Database Integration**
+**Firebase, Firestore & Cloud Storage Integration**
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 
 - 🗄️ **Google Firestore** for real-time NoSQL database
 - 📁 **Google Cloud Storage** for scalable file management
 - 📤 **File Upload** handling with Multer
+- 🔥 **Firebase Authentication** for secure user management
 - ☁️ **Cloud-native Architecture** for high availability
 
 **[Repository]([LINK-TO-GCLOUD-REPO])**
+
+---
+
+### 🏢 [Task Manager with MongoDB]([LINK-TO-YOUR-TASK-PROJECT])
+**Session-based Authentication & Database Management**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+- 🔒 **Session-based Authentication** with express-session
+- 📋 **Full CRUD Operations** for task management
+- 🗃️ **MongoDB Integration** with Mongoose ODM
+- 📱 **Responsive Interface** with jQuery and Bootstrap
+
+**[Repository]([LINK-TO-TASK-REPO])**
 
 ---
 
