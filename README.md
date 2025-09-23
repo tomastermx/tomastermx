@@ -1,60 +1,26 @@
-# 👋 Hi! I'm Tomás
+👋 Hi! I'm Tomás, a backend developer passionate about building real-world web applications using Node.js and Express.
 
-**Backend Developer** passionate about building scalable web applications with modern technologies.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-While I haven't worked in a formal developer role yet, I've completed several backend projects that simulate real freelance and production-level systems — including an ERP platform with modular architecture, secure authentication, and multi-database integration.
+While I haven't worked in a formal developer role yet, I've completed several backend projects that simulate real freelance or production-level systems — including an ERP platform with modular architecture, secure authentication, and multi-database integration.
 
-## 🛠️ **Tech Stack**
+🛠️ Core Technologies:
+- Node.js · Express · Sequelize (PostgreSQL) · Mongoose (MongoDB)
+- Passport.js (JWT & sessions) · Helmet · express-session · Joi
+- Firebase (Realtime DB & Auth)
+- jQuery · Bootstrap (for lightweight frontend UIs)
 
-**Backend Core:**
-- Node.js · Express · NestJS
-- TypeScript · JavaScript
-- Sequelize (PostgreSQL) · Mongoose (MongoDB)
-- Passport.js (JWT & Sessions) · Helmet · Joi
+📚 Also learning:
+- NestJS (2 certifications completed)
+- Applying architectural patterns, TypeScript fundamentals, and modular backend structure
 
-**Database & Cloud:**
-- PostgreSQL · MongoDB 
-- Firebase (Realtime DB · Firestore · Cloud Storage · Auth)
+📌 Highlighted Projects:
+- [A full-featured ERP backend](https://github.com/tomastermx/Pos-Erp) with authentication, input validation, RBAC, and API structuring
+- [A Firebase-based real-time app](https://github.com/tomastermx/tomastermx-thesis-documents-platform) with frontend interaction and auth
+- [A task manager app](https://github.com/tomastermx/todoAppList) with session-based login and MongoDB storage
 
-**Frontend (Basic):**
-- jQuery · Bootstrap · HTML/CSS
-
-**Currently Learning:**
-- GraphQL · Advanced Testing (Jest, Supertest)
-- Docker · TypeScript Advanced Patterns
-
-## 📌 **Featured Projects**
-
-### 🏢 **[ERP System Backend](https://github.com/tomastermx/Pos-Erp)**
-Full-featured enterprise resource planning system with:
-- Modular architecture & RBAC
-- Secure authentication & input validation
-- Multi-database integration (PostgreSQL/MongoDB)
-- RESTful API design
-
-### 🔥 **[Firebase Real-time App](https://github.com/tomastermx/tomastermx-thesis-documents-platform)**
-Interactive application featuring:
-- Firebase Realtime Database & Firestore integration
-- Cloud Storage for file management
-- User authentication system
-- Real-time data synchronization
-
-### 📋 **[Task Management System](https://github.com/tomastermx/LINK_TO_TASK_PROJECT)**
-Complete task manager with:
-- Session-based authentication
-- MongoDB data persistence
-- User role management
-
-## 📈 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomastermx&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomastermx&layout=compact&theme=dark)
-
-## 🎯 **Looking For**
-- Backend Developer roles
-- Freelance opportunities
-- Open source collaboration
-- Mentorship opportunities
-
-## 📫 **Let's Connect**
-💬 Open to discussing backend architecture, Node.js best practices, or potential collaborations!
+💬 I'm open to backend developer roles, freelance opportunities, or collaborative projects. Let's connect and build something meaningful!
