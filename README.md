@@ -36,6 +36,7 @@ Backend Developer or Full Stack opportunities where I can contribute to building
 ### AI & Automation
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
@@ -156,6 +157,7 @@ Enterprise-grade REST API built with NestJS featuring:
 ### AI-Enhanced Development
 - **GitHub Copilot:** AI-assisted code generation and completion
 - **ChatGPT/Claude:** Technical documentation, debugging, and architecture planning
+- **Claude AI:** Code review, README optimization, and technical consultation
 - **OpenAI API Integration:** Implementation of AI-powered features
 
 ---
