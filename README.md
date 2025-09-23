@@ -134,16 +134,16 @@ Enterprise-grade REST API built with NestJS featuring:
 - ✅ **[Responsive Web Design](https://www.freecodecamp.org/certification/tomastermx/responsive-web-design)**
 
 #### Platzi Specialization (10 Courses)
-- 🚀 **NestJS: Modular Programming, Swagger Documentation & Deploy**
-- 🚀 **Backend with NestJS**
-- ⚡ **Asynchronism with JavaScript**
-- 🔒 **Backend with Node.js: Authentication with Passport.js and JWT**
-- 🗄️ **Backend with Node.js: Databases with PostgreSQL**
-- 🗄️ **Backend with Node.js: Databases with MongoDB and WebSockets**
-- 🌐 **Backend with Node.js: REST API with Express.js**
-- 📚 **Node.js Fundamentals**
-- 💻 **Terminal and Command Lines**
-- 🔧 **Git and GitHub**
+- 🚀 **[NestJS: Programación Modular, Documentación con Swagger y Deploy](https://platzi.com/p/tomas.palomino/curso/2274-nestjs-modular/diploma/detalle/)**
+- 🚀 **[Backend con NestJS](https://platzi.com/p/tomas.palomino/curso/2272-nestjs-2021/diploma/detalle/)**
+- 🔒 **[Backend con Node.js: Autenticación con Passport.js y JWT](https://platzi.com/p/tomas.palomino/curso/2489-passport/diploma/detalle/)**
+- 🗄️ **[Backend con Node.js: Base de Datos con PostgreSQL](https://platzi.com/p/tomas.palomino/curso/2507-backend-nodejs-postgres/diploma/detalle/)**
+- 🗄️ **[Node.js: Base de Datos con MongoDB y WebSockets](https://platzi.com/p/tomas.palomino/curso/2042-prework-windows/diploma/detalle/)**
+- 🌐 **[Backend con Node.js: API REST con Express.js](https://platzi.com/p/tomas.palomino/curso/2272-nestjs-2021/diploma/detalle/)**
+- 📚 **[Fundamentos de Node.js](https://platzi.com/p/tomas.palomino/curso/1759-fundamentos-node/diploma/detalle/)**
+- ⚡ **[Closures y Scope en JavaScript](https://platzi.com/p/tomas.palomino/curso/3213-javascript-closures-scope/diploma/detalle/)**
+- 💻 **[Introducción a la Terminal y Línea de Comandos](https://platzi.com/p/tomas.palomino/curso/2292-terminal-21/diploma/detalle/)**
+- 🔧 **[Configuración de Entorno de Desarrollo en Linux](https://platzi.com/p/tomas.palomino/curso/2383-prework-linux-2021/diploma/detalle/)**
 
 ---
 
