@@ -134,7 +134,7 @@ Enterprise-grade REST API built with NestJS featuring:
 - ✅ **[Information Security and Quality Assurance](https://www.freecodecamp.org/certification/tomastermx/information-security-and-quality-assurance)**
 - ✅ **[Responsive Web Design](https://www.freecodecamp.org/certification/tomastermx/responsive-web-design)**
 
-#### Platzi Specialization (10 Courses)
+#### Platzi Specialization (11 Courses)
 - 🚀 **[NestJS: Programación Modular, Documentación con Swagger y Deploy](https://platzi.com/p/tomas.palomino/curso/2274-nestjs-modular/diploma/detalle/)**
 - 🚀 **[Backend con NestJS](https://platzi.com/p/tomas.palomino/curso/2272-nestjs-2021/diploma/detalle/)**
 - 🔒 **[Backend con Node.js: Autenticación con Passport.js y JWT](https://platzi.com/p/tomas.palomino/curso/2489-passport/diploma/detalle/)**
@@ -145,6 +145,7 @@ Enterprise-grade REST API built with NestJS featuring:
 - ⚡ **[Closures y Scope en JavaScript](https://platzi.com/p/tomas.palomino/curso/3213-javascript-closures-scope/diploma/detalle/)**
 - 💻 **[Introducción a la Terminal y Línea de Comandos](https://platzi.com/p/tomas.palomino/curso/2292-terminal-21/diploma/detalle/)**
 - 🔧 **[Configuración de Entorno de Desarrollo en Linux](https://platzi.com/p/tomas.palomino/curso/2383-prework-linux-2021/diploma/detalle/)**
+- 💾 **[NestJS: Persistencia de Datos con TypeORM](https://platzi.com/p/tomas.palomino/curso/2282-nestjs-typeorm/diploma/detalle/)** 
 
 ---
 
