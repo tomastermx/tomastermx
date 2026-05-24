@@ -7,6 +7,11 @@
 ### 🎯 Currently Seeking
 Backend Developer or Full Stack opportunities where I can contribute to building robust, scalable applications and continue growing in cloud technologies and DevOps.
 
+🚀 Live Projects
+
+- **[Parsifal 1](https://parsifal1.duckdns.org)** - TaskApp Management
+- **[Parsifal 2](https://parsifal2.duckdns.org)** - Erp System
+
 ---
 
 ## 🛠️ Tech Stack
