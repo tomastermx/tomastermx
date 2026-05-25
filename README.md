@@ -4,20 +4,27 @@
 
 **Industrial Engineer** with **Master's in IT Management** from **Tecnológico de Monterrey**, passionate about building scalable web applications and enterprise-level systems using modern backend technologies.
 
-### 🎯 Currently Seeking
 
-**Remote opportunities (Part-time or Full-time):**
-- 💼 Backend Developer (Node.js/NestJS)
-- 🔧 DevOps Engineer  
-- 🌐 Full Stack Developer (Backend-focused)
-- 🏗️ Infrastructure Engineer
+### 🎯 Open to Remote Opportunities
+
+**Position Types:**
+- Backend Developer (Node.js/NestJS) 
+- DevOps Engineer
+- Full Stack Developer (Backend-focused)
+- Infrastructure Engineer
+
+**Employment:** Part-time (20-30 hrs/week) or Full-time  
+**Work Mode:** 100% Remote  
+**Location:** Durango, Mexico 🇲🇽
+
 
 **Key Strengths:**
-✅ Backend development with production deployment experience  
-✅ Self-hosted infrastructure and networking expertise  
-✅ Proven ability to work independently and deliver complete solutions  
-✅ English B2+ (professional working proficiency)  
-✅ US time zone compatible (MST - Mountain Time)  
+✅ Production infrastructure deployment and management  
+✅ Backend development with modern Node.js ecosystem  
+✅ Self-hosted solutions and cost optimization  
+✅ Independent execution with proven delivery  
+✅ English: Professional proficiency (B2+)  
+✅ Time zone: MST - compatible with US West Coast  
 
 **Availability:** Immediate | **Location:** Durango, Mexico 🇲🇽 (100% Remote)
 
