@@ -43,6 +43,19 @@ Backend Developer or Full Stack opportunities where I can contribute to building
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 
+
+## 🏗️ Infrastructure Highlights
+
+Currently managing **production-grade self-hosted environment**:
+
+- 🖥️ **Raspberry Pi 4** (4GB RAM, 512GB SSD) - Primary server
+- 🌐 **DigitalOcean VPS** - Public gateway with WireGuard tunnel
+- 🔐 **CGNAT Bypass** - VPN tunneling for home network exposure
+- 🔒 **Nginx Reverse Proxy** - Automated SSL with Let's Encrypt
+- 📦 **Docker Orchestration** - Multi-container production apps
+- 🎛️ **Proxmox Virtualization** - VM and container management
+- 🛡️ **Pi-hole DNS** - Network-wide ad blocking and DNS
+
 ---
 
 ## 🌟 Featured Projects
