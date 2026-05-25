@@ -7,10 +7,41 @@
 ### 🎯 Currently Seeking
 Backend Developer or Full Stack opportunities where I can contribute to building robust, scalable applications and continue growing in cloud technologies and DevOps.
 
-🚀 Live Projects
+**Deployed Applications:**
 
-- **[Parsifal 1](https://parsifal1.duckdns.org)** - TaskApp Management
-- **[Parsifal 2](https://parsifal2.duckdns.org)** - Erp System
+#### 📋 [Task Manager App](https://github.com/tomastermx/todoAppList) 
+**🌐 Live Demo:** [parsifal1.duckdns.org](https://parsifal1.duckdns.org)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+- 🔒 Session-based authentication
+- 📋 Full CRUD operations
+- 🐳 **Deployed on self-hosted Raspberry Pi infrastructure**
+- 🔐 Exposed via WireGuard tunnel + Nginx reverse proxy
+- 🌐 **Production-ready with SSL/TLS**
+
+**[Repository](https://github.com/tomastermx/todoAppList)** | **[Live Demo](https://parsifal1.duckdns.org)**
+
+---
+
+#### 🏢 [ERP System](https://github.com/tomastermx/Pos-Erp)
+**🌐 Live Demo:** [parsifal2.duckdns.org](https://parsifal2.duckdns.org)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+- 🔐 JWT + Passport authentication
+- 👥 Role-based access control
+- 🐳 **Containerized deployment on homelab**
+- 🔒 **Publicly accessible via secure infrastructure**
+- 📊 Sales, inventory, and POS modules
+
+**[Repository](https://github.com/tomastermx/Pos-Erp)** | **[Live Demo](https://parsifal2.duckdns.org)**
+
+---
 
 ---
 
